@@ -1,0 +1,138 @@
+    1  pwd
+    2  mkdir teste
+    3  cd teste
+    4  touch aula3.txt
+    5  ls
+    6  echo "Pedro Guimarães" >> aula3.txt
+    7  aula3.txt
+    8  cataula3.txt
+    9  cat aula3.txt
+   10  echo "125969" >> aula3.txt
+   11  cat aula3.txt
+   12  echo "02/10/2025" >> aula3.txt
+   13  cat aula3.txt
+   14  exit
+   15  ls
+   16  pwd
+   17  sudo apt update
+   18  sudo apt upgrade -y
+   19  sudo apt install apache2 -y
+   20  sudo systemctl status apache2
+   21  sudo apt install apache2 -y
+   22  sudo systemctl start apache2
+   23  sudo systemctl enable apache2
+   24  sudo apt update
+   25  sudo apt install git -y
+   26  ls
+   27  pwd
+   28  cd /var/www/html
+   29  ls
+   30  sudo mv index.html index.html.bak
+   31  ls
+   32  sudo mv index.html index.html
+   33  sudo mv index.html.bak index.html
+   34  ls -all
+   35  sudo vi index.html
+   36  git clone https://github.com/pedrodanygui/ProjectoHtmlAula
+   37  sudo git clone https://github.com/pedrodanygui/ProjectoHtmlAula
+   38  ls
+   39  sudo mv index.html index.html.bak
+   40  sudo mv index.html.bak index.html
+   41  ls
+   42  cd /var/www/html
+   43  ls
+   44  sudo mv index.html index.html.bak
+   45  exit
+   46  sudo apt update
+   47  apt list --upgradable
+   48  sudo apt update
+   49  sudo apt upgrade
+   50  ls
+   51  pwd
+   52  mkdir Teste_03
+   53  ls
+   54  cd Teste_03/
+   55  git clone https://github.com/pedrodanygui/LI2025-Teste03.git
+   56  ls
+   57  echo "LI2025-Teste03" >> README.md
+   58  ls
+   59  git init
+   60  cd LI2025-Teste03/
+   61  mkdir A125969
+   62  ls
+   63  cd A125969/
+   64  echo "Teste de LI 2025/2026" >> README.md
+   65  cd.
+   66  ls
+   67  cd..
+   68  cd ..
+   69  git add .
+   70  git commit -m "2ª Taresa concluída"
+   71  git push origin main
+   72  git add.
+   73  git add .
+   74  git commit
+   75  git push
+   76  git pull
+   77  git pull origin main
+   78  history > ls
+   79  ls
+   80  history > meusComandosAzure.txt
+   81  cat meusComandosAzure.txt
+   82  git add . && git commit -m "history azure" && git push origin main
+   83  exit
+   84  ls
+   85  mkdir
+   86  mkdir Teste_03_Rev
+   87  ls
+   88  cd Teste_03_Rev/
+   89  dc.
+   90  cd.
+   91  mkdir A125969
+   92  cd A125969/
+   93  echo"Teste de LI 2025/2026" >> README.md
+   94  echo "Teste de LI 2025/2026" >> README.md
+   95  ls
+   96  cd ..
+   97  git clone
+   98  git clone https://github.com/pedrodanygui/LI2025-Teste03_Rev2.git
+   99  git push origin main
+  100  pwd
+  101  ls -all
+  102  cd..
+  103  cd ..
+  104  git push origin main
+  105  git clone https://github.com/pedrodanygui/LI2025-Teste03_Rev2.git
+  106  ls
+  107  ls -all
+  108  cd Teste_03
+  109  ls -all
+  110  cd ..
+  111  cd Teste_03_Rev/
+  112  ls -all
+  113  cd LI2025-Teste03_Rev2/
+  114  git push origin main
+  115  cd ..
+  116  git push origin main
+  117  git commit
+  118  cd ..
+  119  git clone https://github.com/pedrodanygui/LI2025-Teste03_Rev2.git
+  120  ls
+  121  cd LI2025-Teste03_Rev2/
+  122  ls
+  123  mkdir A125969
+  124  cd A
+  125  cd A125969/
+  126  echo "Teste de LI 2025/2026" >> README.md
+  127  cd ..
+  128  git push origin main
+  129  git status
+  130  ls
+  131  git add .
+  132  git commit
+  133  git push origin main
+  134  git commit
+  135  git push
+  136  git commit -m "2ª Tarefa Concluida"
+  137  git pull origin main
+  138  history > meusComandosAzure.txt
